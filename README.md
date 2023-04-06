@@ -1,11 +1,12 @@
 React Light/Dark Mode Application
+
 This is a simple React application that allows users to switch between light and dark mode. It is built using Vite, React, CSS, and HTML.
 
 Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/vite-react-light-dark-mode.git
+git clone [https://github.com/your-username/vite-react-light-dark-mode.git](https://github.com/keerthanamenon14/light-dark-mode.git)
 Install the required dependencies:
 bash
 Copy code
